@@ -31,7 +31,7 @@ Please fork and submit pull requests with a script / module ported to Titanium M
   - Add a Readme.md file with any notes and changes that have been made
   - Add the module to the root Readme.md file with the status of the port and a link to the original source
 
-### Wny did I do this?
+### Why did we do this?
 
 We are continually porting scripts to Titanium and coping them from old projects to new project. So this is our way of making life easier.
 
