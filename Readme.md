@@ -24,6 +24,11 @@ Modules, Scripts ported and developed for the Titanium Mobile Platform.
   - Description: Persistent Local NoSql Database with remote syncing
   - Source : [JSONDB](https://github.com/dan-eyles/jsondb-public)
 
+### Superagent
+  - Status : Complete
+  - Description: Chainable simple xhr
+  - Source : [Superagent](https://github.com/visionmedia/superagent.git)
+
 ### Shimmy
   - Status : In Progress
   - Description : Ongoing Titanium Shims and Element Wrappers
